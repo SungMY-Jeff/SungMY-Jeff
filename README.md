@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently working on an AI model to aid in drug development!
 <!--
 **SungMY-Jeff/SungMY-Jeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
